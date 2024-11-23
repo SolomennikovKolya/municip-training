@@ -1,0 +1,3 @@
+/home/uikvel/github/municip-training/code/day6/build/CMakeFiles/main.dir
+/home/uikvel/github/municip-training/code/day6/build/CMakeFiles/edit_cache.dir
+/home/uikvel/github/municip-training/code/day6/build/CMakeFiles/rebuild_cache.dir

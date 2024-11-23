@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/uikvel/github/municip-training/code/day5/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/main.dir/prog1.cpp.o -c /home/uikvel/github/municip-training/code/day5/prog1.cpp",
+  "file": "/home/uikvel/github/municip-training/code/day5/prog1.cpp"
+}
+]
